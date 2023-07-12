@@ -9,3 +9,5 @@ Literally just went nuts after learning loops, functions, and class!!
 Found it in a corner of a drive :') Brought up a lot of memory ngl.
 
 Very noob code. Just keeping it for nostalgic reasons.
+
+<img src="Demo_2.jpg" alt="DEMO" />
